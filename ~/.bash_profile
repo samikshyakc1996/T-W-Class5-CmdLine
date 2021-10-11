@@ -1,0 +1,1 @@
+echo "Hello, welcome to the terminal. Wish you have a good time!"
